@@ -1,6 +1,6 @@
 # Exercitando Javascript
 
-Repositório onde compartilho os exercícios exercutados por mim, a partir do livro: **Lógica de Programação e Algoritmos com Javascript** (Novatec).
+Repositório onde compartilho os exercícios executados por mim, a partir do livro: **Lógica de Programação e Algoritmos com Javascript** (Novatec).
 
 <!-- ## Índice -->
 <!-- [capitulo 1](#Capitulo-2) -->
