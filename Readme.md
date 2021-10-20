@@ -11,6 +11,10 @@ Repositório onde compartilho os exercícios executados por mim, a partir do liv
   
   Elaborar um programa para uma revenda de veículos. O programa deve ler modelo e preço do veículo. Apresentar como resposta o valor da entrada (50%) e o salso em 12x.
   
+  #### Resultado
+https://user-images.githubusercontent.com/19416864/138153440-f0cc07c7-1def-4292-8320-f24db1a14822.mov
+
+
 
   
 ### Capítulo 5
