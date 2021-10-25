@@ -20,6 +20,18 @@ https://user-images.githubusercontent.com/19416864/138153440-f0cc07c7-1def-4292-
 <br>
 <br>
 <br>
+
+  * **Farmácia JS**
+  
+  Na compra de duas unidades de um mesmo medicamento, o cliente recebe como desconto os centavos do valor total.
+  
+  ##### Resultado:
+
+
+
+<br>
+<br>
+<br>
   
 ### Capítulo 5
 <br>
