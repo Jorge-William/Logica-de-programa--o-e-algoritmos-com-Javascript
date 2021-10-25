@@ -32,6 +32,18 @@ https://user-images.githubusercontent.com/19416864/138153440-f0cc07c7-1def-4292-
 <br>
 <br>
 <br>
+
+   * **Lan House JS**
+  
+  O programa deve ler o valor a cada 15 minutos de uso de um computador e o tempo de uso por um cliente em minutos. Informe o valor a ser pago pelo clente, sabendo que as frações extras de 15 minutos devem sercobradas deforma integral.
+  
+  ##### Resultado:
+
+
+
+<br>
+<br>
+<br>
   
 ### Capítulo 5
 <br>
