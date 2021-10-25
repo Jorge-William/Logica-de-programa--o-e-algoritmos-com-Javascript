@@ -26,6 +26,7 @@ https://user-images.githubusercontent.com/19416864/138153440-f0cc07c7-1def-4292-
   Na compra de duas unidades de um mesmo medicamento, o cliente recebe como desconto os centavos do valor total.
   
   ##### Resultado:
+https://user-images.githubusercontent.com/19416864/138780513-850d561c-bffe-47ba-8139-8130d619bdb7.mov
 
 
 
@@ -37,7 +38,9 @@ https://user-images.githubusercontent.com/19416864/138153440-f0cc07c7-1def-4292-
   
   O programa deve ler o valor a cada 15 minutos de uso de um computador e o tempo de uso por um cliente em minutos. Informe o valor a ser pago pelo clente, sabendo que as frações extras de 15 minutos devem sercobradas deforma integral.
   
-  ##### Resultado:
+##### Resultado:
+https://user-images.githubusercontent.com/19416864/138780131-0067d049-93d9-4ab1-8bf5-e390c0319880.mov
+
 
 
 
@@ -49,7 +52,8 @@ https://user-images.githubusercontent.com/19416864/138153440-f0cc07c7-1def-4292-
   
   **Um dupermercado está com uma promoção** - Para aumentar suas vendas no setor de higiene, cada etiqueta de produto deve exibir uma mensagem anunciando 50% de desconto (para um item) na compra de três unidades do produto.
   
-  ##### Resultado:
+##### Resultado:
+https://user-images.githubusercontent.com/19416864/138779894-209383cc-7c33-433f-bf28-39af97d69c5b.mov
 
 
 
