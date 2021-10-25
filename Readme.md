@@ -44,6 +44,18 @@ https://user-images.githubusercontent.com/19416864/138153440-f0cc07c7-1def-4292-
 <br>
 <br>
 <br>
+
+  * **Supermercado JS**
+  
+  **Um dupermercado está com uma promoção** - Para aumentar suas vendas no setor de higiene, cada etiqueta de produto deve exibir uma mensagem anunciando 50% de desconto (para um item) na compra de três unidades do produto.
+  
+  ##### Resultado:
+
+
+
+<br>
+<br>
+<br>
   
 ### Capítulo 5
 <br>
